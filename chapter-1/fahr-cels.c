@@ -5,7 +5,7 @@
 
 main()
 {
-	int fahr, celsiuc;
+	int fahr, celsius;
 	int lower, upper, step;
 
 	lower = 0;	/* lower limit of temp table */
